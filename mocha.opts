@@ -1,0 +1,7 @@
+-r test/testHelper
+--compilers js:babel-register
+--recursive
+--inline-diffs
+--bail
+--check-leaks
+-A
