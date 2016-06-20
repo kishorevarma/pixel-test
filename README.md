@@ -1,5 +1,9 @@
 # redux-async-test-pixel
-- same as [redux-test](https://github.com/kishorevarma/redux-test/blob/master/README.md) repo except async actions
+
+# Technology
+- same as [redux-test](https://github.com/kishorevarma/redux-test/blob/master/README.md)
+- Axios
+- Xml2js
  
 #To Use
 - `npm install`
